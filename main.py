@@ -205,14 +205,14 @@ def send_start(
             [
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code",
-                        url="https://github.com/bipinkrish/Link-Bypasser-Bot",
+                        "🌐 𝗠𝗮𝘅 𝗨𝗽𝗱𝗮𝘁𝗲 𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
+                        url="https://t.me/Max_Leech_Zone_Update",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Replit",
-                        url="https://replit.com/@bipinkrish/Link-Bypasser#app.py",
+                        "🌍 𝗪𝗲𝗯 𝗦𝗶𝘁𝗲 𝗨𝗥𝗟",
+                        url="https://maxlinkbypassbot-8545707ed21e.herokuapp.com/",
                     )
                 ],
             ]
